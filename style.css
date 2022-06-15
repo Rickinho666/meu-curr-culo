@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+
+}
+
+style {
+    background-color: orangered;
+}
+
+img {
+    border-radius: 500px;
+}
+
+.nome {
+    background-color: rgb(17, 255, 0);
+}
+
+.texto {
+    background-color: rgb(241, 167, 28);
+}
+
+h1 {
+
+    font-family: Arial;
+    color: rgb(247, 247, 247);
+
+    padding-left: 30%;
+    margin-top: -320px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+img {}
+
+h4 {
+    color: white;
+    text-align: center;
+}
+
+.habilidades {
+    background-color: blue;
+}
+
+.ideias {
+    background-color: aqua;
+
+}
+
+.fortes {
+    background-color: brown;
+}
+
+.fracos {
+    background-color: darkgreen;
+}
+
+.perfil {
+    background-color: darkslateblue;
+}
